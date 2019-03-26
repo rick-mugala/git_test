@@ -1,0 +1,1 @@
+this is rick's first git project
